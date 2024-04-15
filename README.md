@@ -10,6 +10,7 @@ AriqStock for the color picker tray icon<br>
 Google for the "material" zoom icon
 
 ### HOW TO / FEATURES
+
 The colors you can pick varies between different color spaces/bases. HEX, HSL and RGB. Simply click one of the buttons that displays the colors to copy it to the clipboard.<br>
 You can also right click on those buttons to directly copy CSS properties as well as plain numbers.
 
@@ -23,6 +24,8 @@ The Pick Color button initiates the core feature of the app. It doesn't  remove 
 The zoom button manually initiates the zoom feature.<br>
 <br>
 There's also a little menu at the bottom right with links and the ability to exit the app.<br>
+
+![asdasd](promo.png)
 
 ### TECHNICAL
 App was made using Forms with C# .NET.
