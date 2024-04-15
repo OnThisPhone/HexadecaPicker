@@ -1,0 +1,13 @@
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\bin\Debug\HexadecaPicker.exe.config
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\bin\Debug\HexadecaPicker.exe
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\bin\Debug\HexadecaPicker.pdb
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\obj\Debug\HexadecaPicker.csproj.AssemblyReference.cache
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\obj\Debug\HexadecaPicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\obj\Debug\HexadecaPicker.frmMain.resources
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\obj\Debug\HexadecaPicker.Properties.Resources.resources
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\obj\Debug\HexadecaPicker.csproj.GenerateResource.cache
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\obj\Debug\HexadecaPicker.csproj.CoreCompileInputs.cache
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\obj\Debug\HexadecaPicker.exe
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\obj\Debug\HexadecaPicker.pdb
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\obj\Debug\HexadecaPicker.g.resources
+C:\Users\Jojo\source\repos\HexadecaPicker\HexadecaPicker\obj\Debug\HexadecaPicker.formZoom.resources
