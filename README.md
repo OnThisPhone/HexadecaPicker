@@ -9,7 +9,7 @@ Also has a handy-dandy zoom feature. Intended for designers and programmers.
 AriqStock for the color picker tray icon<br>
 Google for the "material" zoom icon
 
-### TUTORIAL
+### HOW TO / FEATURES
 The colors you can pick varies between different color spaces/bases. HEX, HSL and RGB. Simply click one of the buttons that displays the colors to copy it to the clipboard.<br>
 You can also right click on those buttons to directly copy CSS properties as well as plain numbers.
 
